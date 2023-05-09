@@ -1,0 +1,1 @@
+enum WordParts { initialData, loadingData }
